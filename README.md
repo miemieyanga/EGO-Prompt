@@ -19,7 +19,7 @@ pip install python-dotenv tqdm textgrad numpy scikit-learn matplotlib pandas
 ```
 @inproceedings{zhao2025how,
   author = {Yang Zhao, Pu Wang, Hao Frank Yang},
-  title = {How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Structured Knowledge Adaptation},
+  title = {How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation},
   booktitle={The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)},
   year = {2025},
 }
