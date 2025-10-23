@@ -1,0 +1,1353 @@
+prompt,label
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Jefferson, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on September 22, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 67. Gender is Male.
+[Driver Behavior] The primary behavior is Animal, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is T-intersection. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Champaign, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 20, 2022 at hour 22.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 28. Gender is Female.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2002.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .220. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in La Salle, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 20, 2022 at hour 23.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 33. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 42. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Passing/Overtaking and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other Warning Sign.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Champaign, within a Unincorporated area. It did occur in a work zone.
+[Time] The crash occurred on March 16, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 33. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 29. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2011.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2000.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Avoiding Vehicles/Objects and it was traveling in the North direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Rain.
+[Position] The crash occurred in Morgan, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 30, 2022 at hour 5.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 21. Gender is Male.
+[Driver Behavior] The primary behavior is Operating Vehicle in Erratic, Reckless, Careless, Negligent or Aggressive Manner, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2008.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .110. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Four way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Ogle, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on June 19, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 46. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 60. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2015.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2001.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is .026. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Lake, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on July 8, 2022 at hour 10.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 73. Gender is Male.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 20. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Vehicle 3 Vehicle Information] The vehicle had a defect of None and was manufactured in 2003.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 3 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the North direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Rain.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 15, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 34. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 34. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2004.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Changing Lanes and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Randolph, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on April 24, 2022 at hour 3.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Driver Behavior] The primary behavior is Under the Influence of Alcohol/Drugs(Use When Arrest Is Effected), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2007.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Other and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on November 20, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 19. Gender is Male.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2013.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Adams, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 28, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 62. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 42. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in McLean, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on February 10, 2022 at hour 18.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 21. Gender is Male.
+[Driver Behavior] The primary behavior is Animal, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on November 20, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 19. Gender is Male.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2013.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Peoria, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on May 14, 2022 at hour 12.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 23. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 32. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Rain.
+[Position] The crash occurred in Morgan, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 30, 2022 at hour 5.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 21. Gender is Male.
+[Driver Behavior] The primary behavior is Operating Vehicle in Erratic, Reckless, Careless, Negligent or Aggressive Manner, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2008.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .110. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Henderson, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on August 4, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Driver Behavior] The primary behavior is Not Applicable, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2008.
+[Road Surface] The road surface condition is Unknown. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the East direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Rain.
+[Position] The crash occurred in White, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on January 1, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 48. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Overtaking/Passing, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Tires and was manufactured in 2003.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Safety Belt Not Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Passing/Overtaking and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Rain.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 15, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 34. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 34. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2004.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Changing Lanes and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Rain.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 15, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 34. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 34. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2004.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Changing Lanes and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Rural Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Effingham, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on July 27, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 57. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 50. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Backing, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2001.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2013.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Backing and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Carroll, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on February 13, 2022 at hour 19.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 36. Gender is Male.
+[Driver Behavior] The primary behavior is Had Been Drinking (Use When Arrest is Made), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 1994.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on May 20, 2022 at hour 9.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 24. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 64. Gender is Male.
+[Driver Behavior] The primary behavior is Following Too Closely, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Rain.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on April 8, 2022 at hour 11.
+[Person 2 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 81. Gender is Female.
+[Driver Behavior] The primary behavior is Equipment - Vehicle Condition, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Brakes and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2007.
+[Vehicle 3 Vehicle Information] The vehicle had a defect of None and was manufactured in 2013.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.
+[Vehicle 3 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Randolph, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on April 24, 2022 at hour 3.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Driver Behavior] The primary behavior is Under the Influence of Alcohol/Drugs(Use When Arrest Is Effected), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2007.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Other and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Ramp. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on May 10, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 44. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 17. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Lake, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on September 26, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Male.
+[Driver Behavior] The primary behavior is Had Been Drinking (Use When Arrest is Made), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Parked and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Rain.
+[Position] The crash occurred in Morgan, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 30, 2022 at hour 5.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 21. Gender is Male.
+[Driver Behavior] The primary behavior is Operating Vehicle in Erratic, Reckless, Careless, Negligent or Aggressive Manner, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2008.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .110. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Fulton, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on June 3, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 28. Gender is Male.
+[Driver Behavior] The primary behavior is Road Engineering/Surface/MakingDefects, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2008.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on November 20, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 19. Gender is Male.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2013.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on August 14, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 44. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2017.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the Northwest direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Jackson, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on May 15, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 28. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 65. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Overtaking/Passing, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Passing/Overtaking and it was traveling in the Northeast direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the Northeast direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on June 21, 2022 at hour 22.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 32. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 55. Gender is Male.
+[Driver Behavior] The primary behavior is Vision Obscured (Signs, Tree Limbs, Buildings, Etc.), and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2008.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2006.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Entering Traffic Lane from Parking and it was traveling in the Southwest direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on May 16, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged Unknown. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 36. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Unable to Determine. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Changing Lanes and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on November 8, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 85. Gender is Male.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2007.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Tazewell, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on May 30, 2022 at hour 21.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 22. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 60. Gender is Female.
+[Driver Behavior] The primary behavior is Under the Influence of Alcohol/Drugs(Use When Arrest Is Effected), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2014.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2000.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .268. Distraction status: No. Safety equipment used: DOT Compliant Motorcycle Helmet.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in McLean, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on May 18, 2022 at hour 18.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 28. Gender is Male.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 17. Gender is Male.
+[Driver Behavior] The primary behavior is Disregarding Stop Sign, and the secondary behavior is Vision Obscured (Signs, Tree Limbs, Buildings, Etc.). The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2003.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is T-intersection. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 24, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 43. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 24. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Distraction - From Outside Vehicle. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<MINOR INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is T-intersection. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Champaign, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 20, 2022 at hour 22.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 28. Gender is Female.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2002.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .220. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Will, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on July 13, 2022 at hour 18.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 39. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 30. Gender is Female.
+[Driver Behavior] The primary behavior is Driving Skills/Knowledge/Experience, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2014.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the West direction.",<MINOR INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Edgar, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on February 23, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 45. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 61. Gender is Male.
+[Driver Behavior] The primary behavior is Disregarding Stop Sign, and the secondary behavior is Failing To Yield Right-of-Way. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2005.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2019.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Morgan, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on August 20, 2022 at hour 21.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 38. Gender is Female.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 45. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2005.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2011.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .040. Distraction status: No. Safety equipment used: Usage Unknown.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Jasper, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on April 25, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 68. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 31. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2011.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Grundy, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on April 3, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 51. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 56. Gender is Male.
+[Driver Behavior] The primary behavior is Had Been Drinking (Use When Arrest is Made), and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 1991.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 1991.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other.
+[Road Level] The trafficway is Ramp. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Rain.
+[Position] The crash occurred in Madison, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on March 24, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2007.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the East direction.",<MINOR INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Four way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Madison, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on July 31, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 44. Gender is Female.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 30. Gender is Male.
+[Driver Behavior] The primary behavior is Not Applicable, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2009.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2011.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the Northeast direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Rain.
+[Position] The crash occurred in White, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on January 1, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 48. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Overtaking/Passing, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Tires and was manufactured in 2003.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Safety Belt Not Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Passing/Overtaking and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Interstate. The roadway class is Rural Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Blowing snow.
+[Position] The crash occurred in Whiteside, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on December 24, 2022 at hour 10.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 49. Gender is Female.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 64. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Ice. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the Southeast direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the Southwest direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Rural Freeways.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Clark, within a Unincorporated area. It did occur in a work zone.
+[Time] The crash occurred on September 7, 2022 at hour 23.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 84. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2003.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Disabled and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Du Page, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on August 15, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 34. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 45. Gender is Female.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2014.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on December 16, 2022 at hour 9.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 30. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 31. Gender is Female.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2003.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Right and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Right and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Winnebago, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on June 8, 2022 at hour 6.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 18. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 25. Gender is Female.
+[Driver Behavior] The primary behavior is Distraction - From Inside Vehicle, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Kane, within a 5,000 – 10,000 area. It did not occur in a work zone.
+[Time] The crash occurred on June 18, 2022 at hour 3.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 17. Gender is Male.
+[Driver Behavior] The primary behavior is Had Been Drinking (Use When Arrest is Made), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2006.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .175. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Unknown/NA and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Tazewell, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on December 9, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 50. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 55. Gender is Male.
+[Driver Behavior] The primary behavior is Disregarding Stop Sign, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Alley. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 1, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in La Salle, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 20, 2022 at hour 23.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 33. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 42. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Passing/Overtaking and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Dusk and the weather condition is Clear.
+[Position] The crash occurred in Madison, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on July 19, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 1997.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .130. Distraction status: No. Safety equipment used: DOT Compliant Motorcycle Helmet.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Negotiating a Curve and it was traveling in the North direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Adams, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 28, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 62. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 42. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is T-intersection. The functional class of the roadway is Local Road or Street. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on August 4, 2022 at hour 12.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 49. Gender is Male.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 27. Gender is Female.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2019.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the West direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Macoupin, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on June 21, 2022 at hour 23.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 24. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .035. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other Regualtory Sig.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 10, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged Unknown. Gender is Unknown.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Improper Lane Usage. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Merging and it was traveling in the Unknown direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Four way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Ogle, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on June 19, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 46. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 60. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2015.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2001.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is .026. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Henderson, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on August 4, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Driver Behavior] The primary behavior is Not Applicable, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2008.
+[Road Surface] The road surface condition is Unknown. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the East direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Du Page, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on February 15, 2022 at hour 12.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 40. Gender is Female.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 32. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Following Too Closely. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<MINOR INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Other. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Bureau, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 3, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 73. Gender is Male.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 34. Gender is Male.
+[Driver Behavior] The primary behavior is Disregarding Stop Sign, and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Logan, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on July 25, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 72. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 24. Gender is Female.
+[Driver Behavior] The primary behavior is Driving On Wrong Side/Wrong Way, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2013.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2007.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Safety Belt Not Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Avoiding Vehicles/Objects and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Driving Wrong Way and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other Warning Sign.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Champaign, within a Unincorporated area. It did occur in a work zone.
+[Time] The crash occurred on March 16, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 33. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 29. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2011.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2000.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Avoiding Vehicles/Objects and it was traveling in the North direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on June 5, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2014.
+[Vehicle 3 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the Southeast direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Driving Wrong Way and it was traveling in the West direction.
+[Vehicle 3 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the Southeast direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on October 29, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 32. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 38. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 1994.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2019.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the East direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is T-intersection. The functional class of the roadway is Minor Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Kankakee, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 14, 2022 at hour 18.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 24. Gender is Female.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 86. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2004.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<MINOR INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Ramp. The functional class of the roadway is Interstate. The roadway class is Rural Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Marshall, within a Population Under 2,500 area. It did not occur in a work zone.
+[Time] The crash occurred on September 13, 2022 at hour 14.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 30. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2007.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: DOT Compliant Motorcycle Helmet.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the Southeast direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 20, 2022 at hour 6.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged Unknown. Gender is Unknown.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 65. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Unable to Determine. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2007.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Safety Belt Not Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Champaign, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on May 25, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Female.
+[Person 2 Person Information] This person was a pedestrian. The person involved is a Pedestrian, aged 50. Gender is Male.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on October 14, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 65. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 22. Gender is Female.
+[Driver Behavior] The primary behavior is Following Too Closely, and the secondary behavior is Physical Condition of Driver. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Dawn and the weather condition is Clear.
+[Position] The crash occurred in Jefferson, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on February 1, 2022 at hour 6.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 57. Gender is Female.
+[Driver Behavior] The primary behavior is Animal, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Washington, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on October 2, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 47. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Other and it was traveling in the West direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Jo Daviess, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on September 30, 2022 at hour 10.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 29. Gender is Male.
+[Driver Behavior] The primary behavior is Driving Skills/Knowledge/Experience, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 1983.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on January 15, 2022 at hour 21.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 64. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 19. Gender is Male.
+[Driver Behavior] The primary behavior is Equipment - Vehicle Condition, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2016.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Other and was manufactured in 2013.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the North direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Local Road or Street. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in St. Clair, within a Population Under 2,500 area. It did not occur in a work zone.
+[Time] The crash occurred on July 16, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Male.
+[Driver Behavior] The primary behavior is Not Applicable, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Safety Belt Not Used.
+[Vehicle 1 Vehicle Status] The unit locates at Other. The vehicle's maneuver prior to the crash was Negotiating a Curve and it was traveling in the South direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on October 12, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 25. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 36. Gender is Female.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2011.
+[Road Surface] The road surface condition is Dry. The road defect condition is Unknown.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the North direction.",<MINOR INJURY>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Snow.
+[Position] The crash occurred in Kane, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on December 15, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 28. Gender is Male.
+[Person 2 Person Information] This person was a pedestrian. The person involved is a Pedestrian, aged 58. Gender is Female.
+[Driver Behavior] The primary behavior is Vision Obscured (Signs, Tree Limbs, Buildings, Etc.), and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2000.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the Southwest direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Champaign, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on June 16, 2022 at hour 21.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 27. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 15. Gender is Female.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Operating Vehicle in Erratic, Reckless, Careless, Negligent or Aggressive Manner. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2004.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .288. Distraction status: Yes. Safety equipment used: Safety Belt Not Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Snow.
+[Position] The crash occurred in Moultrie, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on February 17, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 19. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Weather. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2009.
+[Road Surface] The road surface condition is Ice. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the East direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Lake, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on July 8, 2022 at hour 10.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 73. Gender is Male.
+[Person 3 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 20. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Vehicle 3 Vehicle Information] The vehicle had a defect of None and was manufactured in 2003.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.
+[Vehicle 3 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the North direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other Warning Sign.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Rock Island, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on July 3, 2022 at hour 13.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 44. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the Southwest direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Morgan, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on September 8, 2022 at hour 20.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 60. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 48. Gender is Male.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2008.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .218. Distraction status: No. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Safety Belt Not Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<FATAL>
+"[Infrastructure] The crash is at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Four way. The functional class of the roadway is Major Collector (Includes Collector (Urban)). The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Rock Island, within a 25,000 – 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on December 21, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 20. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 26. Gender is Female.
+[Driver Behavior] The primary behavior is Disregarding Traffic Signals, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2018.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Safety Belt Not Used.
+[Person 2 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Turning Left and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Traffic Signal.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 25, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 18. Gender is Male.
+[Person 2 Person Information] This person was a pedestrian. The person involved is a Pedestrian, aged 56. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2015.
+[Road Surface] The road surface condition is Dry. The road defect condition is Debris on roadway.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: None.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Other Principal Arterial. The roadway class is Urban Multilane Divided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Will, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on November 10, 2022 at hour 12.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 19. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 43. Gender is Female.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Driving Skills/Knowledge/Experience. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2020.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the West direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Bond, within a Population Under 2,500 area. It did not occur in a work zone.
+[Time] The crash occurred on October 1, 2022 at hour 0.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 24. Gender is Male.
+[Driver Behavior] The primary behavior is Had Been Drinking (Use When Arrest is Made), and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 1997.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the North direction.",<SERIOUS INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is One-Way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Snow.
+[Position] The crash occurred in Cook, within a 5,000 – 10,000 area. It did not occur in a work zone.
+[Time] The crash occurred on January 28, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged Unknown. Gender is Unknown.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Not Applicable. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2019.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Unknown/NA and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the South direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Rain.
+[Position] The crash occurred in Winnebago, within a Over 50,000 area. It did not occur in a work zone.
+[Time] The crash occurred on January 1, 2022 at hour 11.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged Unknown. Gender is Unknown.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2001.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the West direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Rural 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Clear.
+[Position] The crash occurred in Scott, within a Population Under 2,500 area. It did not occur in a work zone.
+[Time] The crash occurred on January 26, 2022 at hour 23.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 22. Gender is Male.
+[Driver Behavior] The primary behavior is Failing to Reduce Speed to Avoid Crash, and the secondary behavior is Improper Lane Usage. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2010.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .193. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Right. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the North direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on August 26, 2022 at hour 15.
+[Person 1 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged Unknown. Gender is Male.
+[Driver Behavior] The primary behavior is Not Applicable, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2017.
+[Road Surface] The road surface condition is Dry. The road defect condition is Unknown.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Other and it was traveling in the South direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness and the weather condition is Severe cross wind.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on November 5, 2022 at hour 21.
+[Person 1 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged Unknown. Gender is Female.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Improper Overtaking/Passing. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2011.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Parked and it was traveling in the South direction.
+[Vehicle 2 Vehicle Status] The unit locates at Intersection. The vehicle's maneuver prior to the crash was Passing/Overtaking and it was traveling in the South direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Darkness, Lighted Road and the weather condition is Freezing rail or freezing drizzle.
+[Position] The crash occurred in Lake, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on April 3, 2022 at hour 3.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 45. Gender is Male.
+[Driver Behavior] The primary behavior is Improper Lane Usage, and the secondary behavior is Operating Vehicle in Erratic, Reckless, Careless, Negligent or Aggressive Manner. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2002.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .192. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at Off Pavement - Left. The vehicle's maneuver prior to the crash was Skidding/Control Loss and it was traveling in the East direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Divided, no median barrier Two-way. The functional class of the roadway is Minor Arterial. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Dusk and the weather condition is Freezing rail or freezing drizzle.
+[Position] The crash occurred in Cook, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on December 9, 2022 at hour 16.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 45. Gender is Female.
+[Person 3 Person Information] This person was a pedestrian. The person involved is a Pedestrian, aged 82. Gender is Female.
+[Driver Behavior] The primary behavior is Failing To Yield Right-of-Way, and the secondary behavior is Not Applicable. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in 2012.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is .000. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 3 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the West direction.",<FATAL>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Jefferson, within a 10,000 – 25,000 area. It did not occur in a work zone.
+[Time] The crash occurred on September 22, 2022 at hour 7.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 67. Gender is Male.
+[Driver Behavior] The primary behavior is Animal, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in Unknown.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is No Controls.
+[Road Level] The trafficway is One-Way. The functional class of the roadway is Unknown. The roadway class is Urban 2 Lane Roads.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on December 5, 2022 at hour 8.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 31. Gender is Female.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 42. Gender is Female.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2012.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Backing and it was traveling in the North direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<NO APPARENT INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Stop Sign.
+[Road Level] The trafficway is Not Divided Two-way. The functional class of the roadway is Unknown. The roadway class is Urban Multilane Undivided Non-Freeway.
+[Dynamic Conditions] The light condition is Dusk and the weather condition is Rain.
+[Position] The crash occurred in Cook, within a Chicago area. It did not occur in a work zone.
+[Time] The crash occurred on October 25, 2022 at hour 17.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged Unknown. Gender is Male.
+[Person 2 Person Information] This person was a pedestrian. The person involved is a Pedestrian, aged 49. Gender is Male.
+[Driver Behavior] The primary behavior is Unable to Determine, and the secondary behavior is Unable to Determine. The crash is a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of Unknown and was manufactured in Unknown.
+[Road Surface] The road surface condition is Wet. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: Usage Unknown.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: Yes. Safety equipment used: None Used/Not Applicable.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the South direction.",<MINOR INJURY>
+"[Infrastructure] The crash is not at an intersection. The traffic control device is Other.
+[Road Level] The trafficway is Divided - w/median barrier Two-way. The functional class of the roadway is Interstate. The roadway class is Urban Freeways.
+[Dynamic Conditions] The light condition is Daylight and the weather condition is Clear.
+[Position] The crash occurred in Du Page, within a Unincorporated area. It did not occur in a work zone.
+[Time] The crash occurred on June 2, 2022 at hour 6.
+[Person 1 Person Information] This person was in Vehicle Unit 1. The person involved is a Driver, aged 40. Gender is Male.
+[Person 2 Person Information] This person was in Vehicle Unit 2. The person involved is a Driver, aged 52. Gender is Female.
+[Driver Behavior] The primary behavior is Following Too Closely, and the secondary behavior is Failing to Reduce Speed to Avoid Crash. The crash is not a hit-and-run incident.
+[Vehicle 1 Vehicle Information] The vehicle had a defect of None and was manufactured in 2015.
+[Vehicle 2 Vehicle Information] The vehicle had a defect of None and was manufactured in 2017.
+[Road Surface] The road surface condition is Dry. The road defect condition is nan.
+[Person 1 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Person 2 Person Status] The driver's blood alcohol content is Not Tested. Distraction status: No. Safety equipment used: Shoulder and Lap Belt Used.
+[Vehicle 1 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Straight Ahead and it was traveling in the East direction.
+[Vehicle 2 Vehicle Status] The unit locates at On Pavement (Roadway). The vehicle's maneuver prior to the crash was Slow/Stop in Traffic and it was traveling in the East direction.",<NO APPARENT INJURY>
