@@ -8,7 +8,7 @@ EGO-Prompt can be used to find better prompts for domain-specific tasks.
 ## Setup
 
 ```
-conda create -n ego_prompt python=3.9
+conda create -n ego_prompt python=3.11
 source activate ego_prompt
 pip install python-dotenv tqdm textgrad numpy scikit-learn matplotlib pandas
 ```
