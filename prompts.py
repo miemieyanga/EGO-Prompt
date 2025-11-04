@@ -169,11 +169,11 @@ Prompts = {
         'SYSTEM': """
         Predict the trend of hospitalizations for the next week based on the causal descriptions provided between <Causal Description> and <\Causal Description>, and the pandemic details provided between <Pandemic Description> and <\Pandemic Description>.
         Provide a single prediction enclosed in '<>' using one of the following labels: 
-        <substantial decreasing>, <moderate decreasing>, <stable>, <moderate increasing>, and <substantial increasing>. 
+        <substantial decreasing>, <moderate decreasing>, <stable>, <moderate increasing>, <substantial increasing>. 
         Definitions:
-        - "Substantial" refers to changes greater than 3.
-        - "Moderate" corresponds to changes between 1 and 3.
-        - "Stable" is defined as changes between -1 and 1.
+        Substantial refers to changes greater than 3.
+        Moderate corresponds to changes between 1 and 3.
+        Stable is defined as changes between -1 and 1.
         The final line of your response must follow this format: <VALUE>, where VALUE is your prediction.
         """
     },

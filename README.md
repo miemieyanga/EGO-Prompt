@@ -42,3 +42,9 @@ This is the summary of the results shown in our demos (3 runs).
   year = {2025},
 }
 ```
+
+
+## acknowledgments
+
+The code is based on the following repositories:
+- [TextGrad](https://github.com/zou-group/textgrad)
