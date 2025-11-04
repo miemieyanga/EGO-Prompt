@@ -298,3 +298,60 @@ def eval_dataset_causal(test_set, eval_fn, model, causal_model, max_samples: int
         all_ys.extend(ys)
 
     return all_accuracy, all_rs, all_ys
+
+
+def eval_dataset(test_set, eval_fn, model, max_samples: int=None, iters: int=3):
+    if max_samples is None:
+        max_samples = len(test_set)
+
+    all_accuracy = []
+    all_rs = []
+    all_ys = []
+
+    for _ in range(iters):
+        accuracy_list = []
+        rs = []
+        ys = []
+        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
+            futures = []
+            for _, sample in enumerate(test_set):
+                future = executor.submit(eval_sample, sample, eval_fn, model)
+                futures.append(future)
+                if len(futures) >= max_samples:
+                    break
+            tqdm_loader = tqdm(concurrent.futures.as_completed(futures), total=len(futures), position=0)
+            for future in tqdm_loader:
+                try:
+                    acc_item, response, y = future.result()
+                    rs.append(response)
+                    ys.append(y)
+                    accuracy_list.append(acc_item)
+                    tqdm_loader.set_description(f"Accuracy: {np.mean(accuracy_list):.4f}")
+                except Exception as e:
+                    # print(f"Skipping a failed future: {e}")
+                    pass
+
+        all_accuracy.extend(accuracy_list)
+        all_rs.extend(rs)
+        all_ys.extend(ys)
+
+    return all_accuracy, all_rs, all_ys
+
+def eval_sample(item, eval_fn, model):
+    """
+    This function allows us to evaluate if an answer to a question in the prompt is a good answer.
+
+    """
+    x, y = item
+    if isinstance(y, np.int64):
+        y = int(y)
+    x = tg.Variable(x, requires_grad=False, role_description="query to the language model")
+    y = tg.Variable(y, requires_grad=False, role_description="correct answer for the query")
+    response = model(x)
+    try:
+        eval_output_variable = eval_fn(inputs=dict(prediction=response, ground_truth_answer=y))
+        return int(eval_output_variable.value), response.value, y.value
+    except:
+        eval_output_variable = eval_fn([x, y, response])
+        eval_output_parsed = eval_fn.parse_output(eval_output_variable)
+        return int(eval_output_parsed)
