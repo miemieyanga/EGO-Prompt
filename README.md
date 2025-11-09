@@ -43,8 +43,9 @@ This is the summary of the results shown in our demos (3 runs).
 }
 ```
 
+Contact yzhao229@jh.edu or open an issue if you have any questions.
 
-## acknowledgments
+## Acknowledgments
 
 The code is based on the following repositories:
 - [TextGrad](https://github.com/zou-group/textgrad)
