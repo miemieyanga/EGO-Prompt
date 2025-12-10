@@ -3,6 +3,8 @@
 ## Overview
 EGO-Prompt can be used to find better prompts for domain-specific tasks.
 
+[Paper](https://arxiv.org/abs/2510.21148)
+
 ![overview](./assets/main.png)
 
 ## Setup
