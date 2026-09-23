@@ -1,0 +1,9 @@
+openai>=1.40
+anthropic[bedrock]>=1.0
+aws-bedrock-token-generator
+botocore
+numpy
+pandas
+scikit-learn
+matplotlib
+litellm
